@@ -1,0 +1,19 @@
+.result{
+color: brown;
+    margin: unset;
+}
+.btn{
+    margin: 20px 15px 10px 0px ;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px;
+    background: orange;
+    width: 187px;
+}
+.border-customized-input {
+    /*border: 4px solid #1111;*/
+    border: 0;
+    padding: 10px;
+    box-shadow:0 0 15px 4px gray;
+    border-radius: 10px;
+}
